@@ -5,14 +5,18 @@ it was formed from 4 task:
 1. counting down which is to count from ref num to 1
 1. task manager to save the tasks of gru
 1. kalman which is filter for sensor readings
-   ## task2
+## task2
 number of tasks is 3 and there are electronics and circuits
    1. to light up led from 220 ac volt after smooth the signal and regulate it
    1. to move a motor by H-bridge using mosfet transistor
    1. to search for lipo batteries and solve question and to search for the protectiong system in real life to be able prevention the battery from charging other
-      ## task3
-      number of tasks were 2
-      1. first task is tinker cad task to simulate process of communication of I2C it send signal through push button to the other arduino then it will light up led by spacific intense and print something in serial port
-      1. second task was arduino code to move the robot by motor driver and dc motor in 1 of 4 directions then he will search for cookies by using ultrasonic sensor and he will locate himself in the  room
+ ## task3
+ number of tasks were 2
+   1. first task is tinker cad task to simulate process of communication of I2C it send signal through push button to the other arduino then it will light up led by spacific intense and print something in serial port
+  1. second task was arduino code to move the robot by motor driver and dc motor in 1 of 4 directions then he will search for cookies by using ultrasonic sensor and he will locate himself in the  room
+## task 4 
+it consists of 2 task
+   1. it was oop program to simulate game between two vilian each one select weapon and shield and each of those own damage rate and saving rate then the game end when one of the vilians reach 0 health
+   1. it was small ML code for linear regression 
       
    
