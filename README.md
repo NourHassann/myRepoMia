@@ -17,6 +17,8 @@ number of tasks is 3 and there are electronics and circuits
 ## task 4 
 it consists of 2 task
    1. it was oop program to simulate game between two vilian each one select weapon and shield and each of those own damage rate and saving rate then the game end when one of the vilians reach 0 health
-   1. it was small ML code for linear regression 
+   1. it was small ML code for linear regression
+## task 5
+its a bonus task for most important linux commands
       
    
