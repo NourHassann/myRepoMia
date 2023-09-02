@@ -2,7 +2,7 @@
 * it stands for print working directory
 * it takes no parameter
 
-![pwd command](assests\linuxpwd.png)
+![pwd command](assests/linuxpwd.png)
 
 # cd
 * Changes the current working directory. 
