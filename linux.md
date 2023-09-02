@@ -15,7 +15,7 @@
 * it create a new file
 * it takes one or more filename as parameter
 
-![touch command](assests\touch ls.png)  
+![touch command](assests\touchls.png)  
 
 # echo
 * it prints line of text as output
